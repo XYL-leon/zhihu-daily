@@ -138,6 +138,12 @@ export default {
     }
   },
   mounted() {
+    alert('686868')
+    console.log('新增002')
+    console.log('新增002')
+    console.log('新增002')
+    console.log('新增002')
+    console.log('新增002')
     // 一进来就判断是否收藏了
     var arr = localStorage.getItem("arr")
       ? JSON.parse(localStorage.getItem("arr"))
