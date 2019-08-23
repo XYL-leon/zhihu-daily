@@ -48,6 +48,8 @@ export default {
     }
   },
   mounted() {
+    // 无关内容：
+    alert('无关内容');
     //  显示滚动条
     document.documentElement.style.position = "static";
     document.body.style.overflow = "";
