@@ -88,9 +88,12 @@ Date.prototype.getWeek = function() {
   var day = this.getDay();
   return arr[day];
 };
+var aaa = true;
+if(aaa == false){
+  alert('666')
+}
 console.log('哈哈哈');
 console.log('嘻嘻嘻');
-console.log('嘿嘿嘿');
 // 获取时间
 function getDate(num) {
   var date = new Date().getTime();
