@@ -90,7 +90,7 @@ Date.prototype.getWeek = function() {
 };
 var aaa = true;
 if(aaa == false){
-  alert('666')
+  alert('888')
 }
 console.log('哈哈哈');
 console.log('嘻嘻嘻');
