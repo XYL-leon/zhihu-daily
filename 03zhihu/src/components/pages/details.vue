@@ -1,5 +1,6 @@
 <template>
   <div class="wrapper">
+    <div>我是标题002</div>
     <!-- 分享弹框 -->
     <div v-if="isShow" class="share_wrap" @click="hide()">
       <div class="share clearfix">
